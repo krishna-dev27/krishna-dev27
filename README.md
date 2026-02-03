@@ -1,9 +1,12 @@
-# Hi there Krishna kumar S here👋
+# Hi there Krishna kumar.S here👋
+###Electronics and communication Engineering
 
+
+## 💫 About Me:
+🔭 Working on Python Full Stack & SQL projects  <br>🌱 Learning AWS<br>👯 Open to collaborate on beginner Python & Web projects  <br>🤝 Looking for guidance in AWS& advanced Python  <br>💬 Ask me about Python, SQL, HTML, CSS, JS  <br>⚡ Fun fact: I started coding to build projects, stayed for the bugs 😅<br>
 <!--
-**krishna-dev27/krishna-dev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
